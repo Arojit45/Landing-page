@@ -1,4 +1,4 @@
-# Aquavision Project
+# Product Landing page
 
 ## Overview
 Aquavision is a cutting-edge project focused on monitoring water conditions with precision. It provides real-time analysis crucial for environmental and safety assessments. The project leverages advanced technology to offer insights into water quality, temperature, and other vital parameters.
